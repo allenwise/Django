@@ -1,2 +1,3 @@
 username="joanna"
-print username "is my name"
+password="Egbuna"
+print username "and" password "is my name"
